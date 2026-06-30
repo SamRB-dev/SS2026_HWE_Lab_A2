@@ -2,14 +2,15 @@
 This repository contains the FPGA PCB design for the Hardware Engineering Lab A2 project.
 ## PCB Design
 The PCB was designed using a Lattice iCE40HX1K-TQ144 FPGA.
-![PCB 3D View](project/pcb/NPU_project/images/pcb_photo.png)
+![PCB 3D View](NPU_project/images/pcb_photo.png)
 
 ## Main Files
 
 - `project/pcb/NPU_project/NPU_project.PrjPcb` – Altium PCB project
-- `project/pcb/NPU_project/NPU_project_ICE40.PcbDoc` – final PCB layout
+- `project/pcb/NPU_project/NPU_project_ICE40.PcbDoc` – PCB layout
 - `project/pcb/NPU_project/NPU_project_ICE40.step` – exported 3D model
-- `project/pcb/NPU_project/FPGA_PinMapping.SchDoc` – FPGA pin mapping
+- `project/pcb/NPU_project/FPGA_PinMapping.SchDoc` – FPGA pin mapping schematic
 - `project/pcb/NPU_project/PowerSupply.SchDoc` – power supply schematic
-- `project/pcb/NPU_project/Configuration.SchDoc` – SPI configuration header
-- `project/pcb/NPU_project/InputOutput.SchDoc` – switches, buttons, LED and seven-segment display
+- `project/pcb/NPU_project/Configuration.SchDoc` – SPI configuration header schematic
+- `project/pcb/NPU_project/InputOutput.SchDoc` – switches, buttons, LED and seven-segment display schematic
+- `project/pcb/NPU_project/Clock.SchDoc` – clock schematic
