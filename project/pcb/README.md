@@ -2,6 +2,7 @@
 The PCB was designed using a Lattice iCE40HX1K-TQ144 FPGA.
 ## PCB Design
 ![PCB 3D View](NPU_project/images/pcb_photo.png)
+![PCB layout 3D View](NPU_project/images/layout_photo.png)
 
 ## Main Files
 
